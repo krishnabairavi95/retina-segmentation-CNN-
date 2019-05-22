@@ -5,10 +5,10 @@ I have used state of the art biomedical image segmentation architectures: U-Net 
 The ReadMe.txt file and my report 16725_Report.pdf can walk you through my project steps 
 
 
-##Input Image:
+## Input Image:
 
 <img width="580" alt="Screen Shot 2019-05-21 at 9 42 52 PM" src="https://user-images.githubusercontent.com/50892126/58143723-6e665800-7c11-11e9-87aa-973d988f0b7d.png">
 
-###SegNet based Model Segmented Image:
+## SegNet based Model Segmented Image:
 
 ![segnet_pred20](https://user-images.githubusercontent.com/50892126/58143854-d9b02a00-7c11-11e9-9864-76451e3d26bb.png)

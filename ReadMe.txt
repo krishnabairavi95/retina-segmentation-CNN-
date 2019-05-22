@@ -1,6 +1,6 @@
 Hello, 
 
-I have prepared a report for the project. (Document Name: 16725_report.pdf). It is in the ‘proj’ of my folder. Please take a look at it. I have explained the methodology with references and results (including Images and the final ROC curve).  
+I have prepared a report for the project. (Document Name: 16725_report.pdf). Please take a look at it. I have explained the methodology with references and results (including Images and the final ROC curve).  
 
 Please  follow the following steps while running my code, I will walk you through. 
 
@@ -14,8 +14,6 @@ Please  follow the following steps while running my code, I will walk you throug
 
 4. The Results folder contains ROC curves  and predicted images in separate folders for visualization 
 
-
-It was a great learning experience. 
 
 Thank you
 Krishna
